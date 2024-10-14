@@ -5,7 +5,14 @@
     "address": "123 Palm Street, Beverly Hills, CA",
     "floor": 2,
     "area": "3200 sqft",
-    "market_value": 1200000
+    "market_value": 1200000,
+    "rooms": {
+      "bedroom": 4,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 3
+    }
   },
   {
     "id": 2,
@@ -13,7 +20,14 @@
     "address": "456 Seaside Avenue, Miami, FL",
     "floor": 5,
     "area": "1450 sqft",
-    "market_value": 450000
+    "market_value": 450000,
+    "rooms": {
+      "bedroom": 2,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 3,
@@ -21,7 +35,14 @@
     "address": "789 Pine Hill Road, Aspen, CO",
     "floor": 3,
     "area": "5000 sqft",
-    "market_value": 2500000
+    "market_value": 2500000,
+    "rooms": {
+      "bedroom": 5,
+      "dining_room": 1,
+      "store_room": 2,
+      "kitchen": 1,
+      "washroom": 4
+    }
   },
   {
     "id": 4,
@@ -29,7 +50,14 @@
     "address": "1010 Skyline Blvd, New York, NY",
     "floor": 10,
     "area": "900 sqft",
-    "market_value": 750000
+    "market_value": 750000,
+    "rooms": {
+      "bedroom": 1,
+      "dining_room": 1,
+      "store_room": 0,
+      "kitchen": 1,
+      "washroom": 1
+    }
   },
   {
     "id": 5,
@@ -37,7 +65,14 @@
     "address": "321 Waterfall Lane, Lake Tahoe, NV",
     "floor": 1,
     "area": "2400 sqft",
-    "market_value": 850000
+    "market_value": 850000,
+    "rooms": {
+      "bedroom": 3,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 6,
@@ -45,7 +80,14 @@
     "address": "210 Greenview Drive, Austin, TX",
     "floor": 3,
     "area": "2900 sqft",
-    "market_value": 650000
+    "market_value": 650000,
+    "rooms": {
+      "bedroom": 4,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 3
+    }
   },
   {
     "id": 7,
@@ -53,7 +95,14 @@
     "address": "888 Riverside Ave, Portland, OR",
     "floor": 7,
     "area": "1200 sqft",
-    "market_value": 500000
+    "market_value": 500000,
+    "rooms": {
+      "bedroom": 2,
+      "dining_room": 1,
+      "store_room": 0,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 8,
@@ -61,7 +110,14 @@
     "address": "67 Ocean Front Walk, Malibu, CA",
     "floor": 1,
     "area": "2800 sqft",
-    "market_value": 2200000
+    "market_value": 2200000,
+    "rooms": {
+      "bedroom": 4,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 3
+    }
   },
   {
     "id": 9,
@@ -69,7 +125,14 @@
     "address": "303 Urban St, Chicago, IL",
     "floor": 12,
     "area": "850 sqft",
-    "market_value": 400000
+    "market_value": 400000,
+    "rooms": {
+      "bedroom": 1,
+      "dining_room": 1,
+      "store_room": 0,
+      "kitchen": 1,
+      "washroom": 1
+    }
   },
   {
     "id": 10,
@@ -77,7 +140,14 @@
     "address": "202 Luxury Tower, Dallas, TX",
     "floor": 25,
     "area": "5200 sqft",
-    "market_value": 3500000
+    "market_value": 3500000,
+    "rooms": {
+      "bedroom": 5,
+      "dining_room": 1,
+      "store_room": 2,
+      "kitchen": 1,
+      "washroom": 4
+    }
   },
   {
     "id": 11,
@@ -85,7 +155,14 @@
     "address": "77 Maple Leaf Lane, Seattle, WA",
     "floor": 2,
     "area": "3100 sqft",
-    "market_value": 1300000
+    "market_value": 1300000,
+    "rooms": {
+      "bedroom": 4,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 3
+    }
   },
   {
     "id": 12,
@@ -93,7 +170,14 @@
     "address": "98 Hilltop View, Denver, CO",
     "floor": 1,
     "area": "4000 sqft",
-    "market_value": 1800000
+    "market_value": 1800000,
+    "rooms": {
+      "bedroom": 4,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 3
+    }
   },
   {
     "id": 13,
@@ -101,7 +185,14 @@
     "address": "245 River Bend, Nashville, TN",
     "floor": 1,
     "area": "1500 sqft",
-    "market_value": 600000
+    "market_value": 600000,
+    "rooms": {
+      "bedroom": 2,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 14,
@@ -109,7 +200,14 @@
     "address": "111 High Street, Boston, MA",
     "floor": 15,
     "area": "1350 sqft",
-    "market_value": 850000
+    "market_value": 850000,
+    "rooms": {
+      "bedroom": 2,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 15,
@@ -117,7 +215,14 @@
     "address": "456 Farmhouse Road, Lexington, KY",
     "floor": 3,
     "area": "5500 sqft",
-    "market_value": 2700000
+    "market_value": 2700000,
+    "rooms": {
+      "bedroom": 6,
+      "dining_room": 2,
+      "store_room": 2,
+      "kitchen": 1,
+      "washroom": 5
+    }
   },
   {
     "id": 16,
@@ -125,7 +230,14 @@
     "address": "19 Bayview Blvd, San Francisco, CA",
     "floor": 4,
     "area": "2300 sqft",
-    "market_value": 2000000
+    "market_value": 2000000,
+    "rooms": {
+      "bedroom": 3,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 17,
@@ -133,7 +245,14 @@
     "address": "888 Tropic Lane, Orlando, FL",
     "floor": 6,
     "area": "1200 sqft",
-    "market_value": 480000
+    "market_value": 480000,
+    "rooms": {
+      "bedroom": 2,
+      "dining_room": 1,
+      "store_room": 0,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 18,
@@ -141,7 +260,14 @@
     "address": "654 Crestwood Drive, Charlotte, NC",
     "floor": 3,
     "area": "5800 sqft",
-    "market_value": 3200000
+    "market_value": 3200000,
+    "rooms": {
+      "bedroom": 6,
+      "dining_room": 2,
+      "store_room": 2,
+      "kitchen": 1,
+      "washroom": 5
+    }
   },
   {
     "id": 19,
@@ -149,7 +275,14 @@
     "address": "12 Valleyview St, Boise, ID",
     "floor": 1,
     "area": "2000 sqft",
-    "market_value": 700000
+    "market_value": 700000,
+    "rooms": {
+      "bedroom": 3,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 2
+    }
   },
   {
     "id": 20,
@@ -157,6 +290,13 @@
     "address": "121 Lakeshore Drive, Madison, WI",
     "floor": 2,
     "area": "3600 sqft",
-    "market_value": 1600000
+    "market_value": 1600000,
+    "rooms": {
+      "bedroom": 4,
+      "dining_room": 1,
+      "store_room": 1,
+      "kitchen": 1,
+      "washroom": 3
+    }
   }
 ]
