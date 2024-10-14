@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Sunset Villa",
+    "address": "123 Palm Street, Beverly Hills, CA",
+    "floor": 2,
+    "area": "3200 sqft",
+    "market_value": 1200000
+  },
+  {
+    "id": 2,
+    "name": "Ocean Breeze Apartment",
+    "address": "456 Seaside Avenue, Miami, FL",
+    "floor": 5,
+    "area": "1450 sqft",
+    "market_value": 450000
+  },
+  {
+    "id": 3,
+    "name": "Mountain View Lodge",
+    "address": "789 Pine Hill Road, Aspen, CO",
+    "floor": 3,
+    "area": "5000 sqft",
+    "market_value": 2500000
+  },
+  {
+    "id": 4,
+    "name": "Cityscape Condo",
+    "address": "1010 Skyline Blvd, New York, NY",
+    "floor": 10,
+    "area": "900 sqft",
+    "market_value": 750000
+  },
+  {
+    "id": 5,
+    "name": "Lakeside Cottage",
+    "address": "321 Waterfall Lane, Lake Tahoe, NV",
+    "floor": 1,
+    "area": "2400 sqft",
+    "market_value": 850000
+  },
+  {
+    "id": 6,
+    "name": "Parkside Manor",
+    "address": "210 Greenview Drive, Austin, TX",
+    "floor": 3,
+    "area": "2900 sqft",
+    "market_value": 650000
+  },
+  {
+    "id": 7,
+    "name": "The Modern Loft",
+    "address": "888 Riverside Ave, Portland, OR",
+    "floor": 7,
+    "area": "1200 sqft",
+    "market_value": 500000
+  },
+  {
+    "id": 8,
+    "name": "Beachside Bungalow",
+    "address": "67 Ocean Front Walk, Malibu, CA",
+    "floor": 1,
+    "area": "2800 sqft",
+    "market_value": 2200000
+  },
+  {
+    "id": 9,
+    "name": "Downtown Studio",
+    "address": "303 Urban St, Chicago, IL",
+    "floor": 12,
+    "area": "850 sqft",
+    "market_value": 400000
+  },
+  {
+    "id": 10,
+    "name": "The Penthouse",
+    "address": "202 Luxury Tower, Dallas, TX",
+    "floor": 25,
+    "area": "5200 sqft",
+    "market_value": 3500000
+  },
+  {
+    "id": 11,
+    "name": "Garden House",
+    "address": "77 Maple Leaf Lane, Seattle, WA",
+    "floor": 2,
+    "area": "3100 sqft",
+    "market_value": 1300000
+  },
+  {
+    "id": 12,
+    "name": "Mountain Ridge Retreat",
+    "address": "98 Hilltop View, Denver, CO",
+    "floor": 1,
+    "area": "4000 sqft",
+    "market_value": 1800000
+  },
+  {
+    "id": 13,
+    "name": "Riverfront Cabin",
+    "address": "245 River Bend, Nashville, TN",
+    "floor": 1,
+    "area": "1500 sqft",
+    "market_value": 600000
+  },
+  {
+    "id": 14,
+    "name": "The City Loft",
+    "address": "111 High Street, Boston, MA",
+    "floor": 15,
+    "area": "1350 sqft",
+    "market_value": 850000
+  },
+  {
+    "id": 15,
+    "name": "Countryside Estate",
+    "address": "456 Farmhouse Road, Lexington, KY",
+    "floor": 3,
+    "area": "5500 sqft",
+    "market_value": 2700000
+  },
+  {
+    "id": 16,
+    "name": "Seaview Terrace",
+    "address": "19 Bayview Blvd, San Francisco, CA",
+    "floor": 4,
+    "area": "2300 sqft",
+    "market_value": 2000000
+  },
+  {
+    "id": 17,
+    "name": "Palm Grove Condo",
+    "address": "888 Tropic Lane, Orlando, FL",
+    "floor": 6,
+    "area": "1200 sqft",
+    "market_value": 480000
+  },
+  {
+    "id": 18,
+    "name": "Hillcrest Mansion",
+    "address": "654 Crestwood Drive, Charlotte, NC",
+    "floor": 3,
+    "area": "5800 sqft",
+    "market_value": 3200000
+  },
+  {
+    "id": 19,
+    "name": "Meadowfield Cottage",
+    "address": "12 Valleyview St, Boise, ID",
+    "floor": 1,
+    "area": "2000 sqft",
+    "market_value": 700000
+  },
+  {
+    "id": 20,
+    "name": "Lakeshore Villa",
+    "address": "121 Lakeshore Drive, Madison, WI",
+    "floor": 2,
+    "area": "3600 sqft",
+    "market_value": 1600000
+  }
+]
